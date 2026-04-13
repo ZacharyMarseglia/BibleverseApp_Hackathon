@@ -1,0 +1,31 @@
+Activity Description
+
+During Global Hack Week: API, the expectation was to build a project that meaningfully used APIs while
+demonstrating practical software development skills. For this event, I developed an Android mobile application 
+that sends users a daily Bible verse notification at a time they choose. The goal was to create something simple,
+useful, and user-focused while integrating backend logic with a clean mobile experience. I successfully built a
+working prototype that allows users to set a preferred notification time and receive daily verses, meeting the core
+expectations of the event.
+
+Technical Decisions
+
+From a technical perspective, I focused on keeping the architecture simple and reliable. I chose to store Bible verses 
+locally in a structured format (such as JSON) to avoid dependency issues with external APIs during development. For 
+notifications, I implemented scheduled background tasks to trigger at the user’s selected time. I also designed the app
+with a minimal UI to prioritize functionality over complexity, ensuring that the core feature—daily verse delivery—worked
+consistently. These decisions helped reduce bugs and allowed me to complete the project within the limited hackathon timeframe.
+
+Contributions
+
+I completed this project independently. I was responsible for all aspects of development, including planning the app concept, 
+designing the user interface, implementing the notification system, and testing functionality. Working alone required me to 
+manage both technical challenges and time effectively, which helped improve my ability to stay organized and focused under pressure.
+
+Quality Assessment
+
+I would assess my participation as strong and successful. I achieved my main goal of building a fully functional app within the event 
+timeframe, and the final product worked as intended. If I were to redo the event, I would focus on expanding the app’s features, such 
+as integrating a live Bible verse API, adding user customization options (like verse categories), and improving the UI design for a more 
+polished look. Additionally, I would spend more time refining edge cases, such as handling missed notifications or app restarts. Overall,
+this experience strengthened my confidence in building complete applications independently and reinforced the importance of balancing 
+simplicity with functionality during rapid development.
